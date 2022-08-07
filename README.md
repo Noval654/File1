@@ -15,7 +15,7 @@
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OLLPROJECT/File-sharing-1-botom-)</br> 
+[ ! [Menyebarkan] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy?template=https://github.com/Noval654/File1-) </br> 
 
 ### Admin Commands
 
@@ -23,7 +23,7 @@
 /start - mulai bot atau dapatkan postingan 
 
 /batch - buat link untuk lebih dari satu postingan
-
+kami
 /genlink - bua link untuk satu postingan
 
 /users - lihat statistik bot
